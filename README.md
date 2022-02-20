@@ -6,12 +6,12 @@ you can download the apk from [here](/build/app/outputs/flutter-apk/app-release.
 
 
 ## Screen shots from the App
-[](/screenshots/photo_2022-02-20%2016.25.52.jpeg)
-[](/screenshots/photo_2022-02-20%2016.26.02.jpeg)
-[](/screenshots/photo_2022-02-20%2016.25.55.jpeg)
-[](/screenshots/photo_2022-02-20%2016.25.56.jpeg)
-[](/screenshots/photo_2022-02-20%2016.25.59.jpeg)
-[](/screenshots/photo_2022-02-20%2016.26.00.jpeg)
+![](/screenshots/photo_2022-02-20%2016.25.52.jpeg)
+![](/screenshots/photo_2022-02-20%2016.26.02.jpeg)
+![](/screenshots/photo_2022-02-20%2016.25.55.jpeg)
+![](/screenshots/photo_2022-02-20%2016.25.56.jpeg)
+![](/screenshots/photo_2022-02-20%2016.25.59.jpeg)
+![](/screenshots/photo_2022-02-20%2016.26.00.jpeg)
 
 ## Getting Started
 
