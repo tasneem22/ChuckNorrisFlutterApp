@@ -6,7 +6,7 @@ class JokeTile extends StatelessWidget {
   JokeTile({Key? key, required this.joke, required this.category})
       : super(key: key);
   Joke joke;
-  String category;
+  String? category;
   @override
   Widget build(BuildContext context) {
     return Column(children: [
@@ -36,7 +36,9 @@ class JokeTile extends StatelessWidget {
                 const SizedBox(
                   height: 50,
                 ),
-                buildRow(30, 'Joke Category: ', category),
+                category != null
+                    ? buildRow(30, 'Joke Category: ', category!)
+                    : Wrap(),
                 const SizedBox(
                   height: 30,
                 ),
