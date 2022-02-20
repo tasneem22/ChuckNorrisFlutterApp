@@ -27,6 +27,7 @@ you can download the apk from [here](/build/app/outputs/flutter-apk/app-release.
     <td><img src="/screenshots/photo_2022-02-20%2016.26.00.jpeg" width=300 height=630></td>
   </tr>
  </table>
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
